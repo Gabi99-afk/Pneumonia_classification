@@ -34,7 +34,7 @@ Do uruchomienia tego projektu wymagane są następujące biblioteki:
 ## Użycie
 
 1. Sklonuj repozytorium.
-2. Pobierz zbiór danych i umieść go w katalogu `data`.
+2. Pobierz zbiór danych z https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia i umieść go w katalogu `data`.
 3. Uruchom notebook Jupyter `pneumonia_classification.ipynb`.
 
 ## Uwagi
